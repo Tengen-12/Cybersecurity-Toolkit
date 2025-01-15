@@ -1,7 +1,7 @@
 import socket
 
 # Target domain or URL
-target_domain = "html5test.com"  # Replace with the target domain or URL
+target_domain = "www.example.com"  # Replace with the target domain or URL
 
 # Port range to scan
 start_port = 1
