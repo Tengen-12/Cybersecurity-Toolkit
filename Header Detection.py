@@ -116,5 +116,5 @@ def check_missing_security_headers(url):
 
 # Example usage:
 if __name__ == "__main__":
-    target_url = "http://www.shifa.com.pk/"  # Replace with the target URL
+    target_url = "www.example.com"  # Replace with the target URL
     check_missing_security_headers(target_url)
