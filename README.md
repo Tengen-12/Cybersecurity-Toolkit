@@ -1,16 +1,46 @@
-- 👋 Hi, I’m @Tengen-12
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning coding
-- ⚡ Fun fact: there's no fun fact
+# Cybersecurity Toolkit
 
-- Here i provided 2 scripts for penetration testing.
-  1. Header Detection by which you can find missing headers in particular website.
-  2. Buffer Overflow by which you can send the overflow script through the open ports. This script first searches for the open port and then sends the payload script.
-  
-- Also these scripts are only for educational purposes does not support any mis-behave or unethical use.
-- Use these scripts if you have written permission from the company and with proper consent.
+## Overview
+This toolkit consists of multiple Python scripts designed for security testing, reconnaissance, and vulnerability assessment.
 
-<!---
-Tengen-12/Tengen-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Tools and Features
+
+### 1️⃣ API Testing (`API_Testing.py`)
+- Tests API endpoints for security vulnerabilities.
+- Supports GET and POST requests with customizable headers.
+
+### 2️⃣ API Finder (`API_Finder.py`)
+- Identifies API endpoints from a given website.
+- Uses web scraping and wordlist-based enumeration.
+
+### 3️⃣ Domain & IP Finder (`Domain_IP_Finder.py`)
+- Retrieves the IP address of a given domain.
+- Performs WHOIS lookup and reverse DNS queries.
+
+### 4️⃣ Header Detection (`Header Detection.py`)
+- Scans HTTP headers for security misconfigurations.
+- Identifies missing or weak security headers.
+
+### 5️⃣ Scriptoit (`Scriptoit.py`)
+- Automates script-based penetration testing tasks.
+- Can be customized for exploitation scenarios.
+
+### 6️⃣ URL Extractor (`URL extractor.py`)
+- Extracts URLs from a given web page or document.
+- Useful for phishing analysis and OSINT investigations.
+
+### 7️⃣ Buffer Overflow Tester (`bufferoverlow.py`)
+- Simulates buffer overflow attacks for vulnerability research.
+- Helps identify memory corruption issues in applications.
+
+## Installation
+1. Ensure **Python 3.x** is installed.
+2. Install required dependencies:
+   ```bash
+   pip install <library names>
+
+## Disclaimer
+These scripts are intended for educational and ethical hacking purposes only. The author is not responsible for any misuse of these tools.
+
+## Author
+**Kakashi Hatake** – Security Analyst & Penetration Tester
