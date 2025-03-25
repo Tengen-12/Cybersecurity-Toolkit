@@ -43,4 +43,4 @@ This toolkit consists of multiple Python scripts designed for security testing, 
 These scripts are intended for educational and ethical hacking purposes only. The author is not responsible for any misuse of these tools.
 
 ## Author
-**Kakashi Hatake** – Security Analyst & Penetration Tester
+**Aditya Barokar** – Security Analyst & Penetration Tester
