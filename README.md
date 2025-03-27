@@ -37,7 +37,7 @@ This toolkit consists of multiple Python scripts designed for security testing, 
 1. Ensure **Python 3.x** is installed.
 2. Install required dependencies:
    ```bash
-   pip install <library names>
+   pip install <library names> [libraries you needed to run the code]
 
 ## Disclaimer
 These scripts are intended for educational and ethical hacking purposes only. The author is not responsible for any misuse of these tools.
