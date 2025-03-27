@@ -1,7 +1,5 @@
 # Cybersecurity Toolkit
 
----
-
 ## Overview
 This toolkit consists of multiple Python scripts designed for security testing, reconnaissance, and vulnerability assessment.
 
