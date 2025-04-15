@@ -42,7 +42,14 @@ This toolkit consists of multiple Python scripts designed for security testing, 
 2. Install required dependencies:
    ```bash
    pip install <library names> [libraries you needed to run the code]
+   
+---
 
+## How to run
+-In terminal use the command:
+   ```bash
+    python example.py [replace the example.py with the file name]
+```
 ---
 
 ## Disclaimer
@@ -51,7 +58,7 @@ These scripts are intended for educational and ethical hacking purposes only. Th
 ---
 
 ## Future Implements
-Will shortly introduce with the single GUI for all of the above scripts. Stay connected.
+To make it user-friendly I will shortly introduce with the single GUI(Graphical User Interface) for all of the above scripts. Stay connected.
 
 ---
 
