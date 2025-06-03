@@ -57,11 +57,8 @@ These scripts are intended for educational and ethical hacking purposes only. Th
 
 ---
 
-## Future Implements
-To make it user-friendly I will shortly introduce with the single GUI(Graphical User Interface) for all of the above scripts. Stay connected.
-
-![cstk](https://github.com/user-attachments/assets/0d961a50-8858-4bf6-b322-79c4f1afa19d)
-*(work in progress)*
+## Preview
+![image](https://github.com/user-attachments/assets/dc432104-9c60-4dbb-8cc1-87784d9b6f70)
 
 ---
 
